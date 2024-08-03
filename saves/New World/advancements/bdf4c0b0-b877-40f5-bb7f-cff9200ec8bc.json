@@ -1,0 +1,110 @@
+{
+  "tinkersurvival:stick": {
+    "criteria": {
+      "has_rock_stone": "2024-08-03 12:47:42 +0200"
+    },
+    "done": true
+  },
+  "rechiseled:recipes/rechiseled/chisel": {
+    "criteria": {
+      "recipe_condition": "2024-08-03 12:40:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-08-03 12:47:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-08-03 12:47:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2024-08-03 12:42:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-08-03 12:47:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-08-03 12:47:42 +0200"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2024-08-03 12:40:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-08-03 12:47:42 +0200"
+    },
+    "done": true
+  },
+  "nocubessrpsurvival:advparasitesurvivalroot": {
+    "criteria": {
+      "advparasitesurvivalroot": "2024-08-03 12:40:15 +0200"
+    },
+    "done": true
+  },
+  "tinkersurvival:getting_wood": {
+    "criteria": {
+      "has_wood": "2024-08-03 12:42:28 +0200"
+    },
+    "done": true
+  },
+  "movingelevators:recipes/elevator_block": {
+    "criteria": {
+      "recipe_condition": "2024-08-03 12:40:11 +0200"
+    },
+    "done": true
+  },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2024-08-03 12:40:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-08-03 12:47:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-08-03 12:47:42 +0200"
+    },
+    "done": true
+  },
+  "tinkersurvival:root": {
+    "criteria": {
+      "always_true": "2024-08-03 12:40:11 +0200"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2024-08-03 12:40:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest_hills": "2024-08-03 12:40:11 +0200"
+    },
+    "done": false
+  }
+}

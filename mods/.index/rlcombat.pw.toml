@@ -1,0 +1,13 @@
+filename = 'RLCombat-1.12.2-2.0.8.jar'
+name = 'RLCombat'
+side = 'both'
+
+[download]
+hash = '8e4afec3b67a63a74cfd9a72463ce08743854fd63e299d40ad8fd2819fb8fbafa28d20db0247f9bc23b2d1f8101fda69d7954ceb12a0b6a686d8672f679ac4a9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xeKkaaS4/versions/C0NERnvt/RLCombat-1.12.2-2.0.8.jar'
+
+[update.modrinth]
+mod-id = 'xeKkaaS4'
+version = 'C0NERnvt'

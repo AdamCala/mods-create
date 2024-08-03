@@ -1,0 +1,13 @@
+filename = 'moredifficultylevels-0-2-1-12-2.jar'
+name = 'More Difficulty Levels'
+side = 'both'
+
+[download]
+hash = '605fb616313d0162915ab3ba8b507f499562f77e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3062026
+project-id = 409249

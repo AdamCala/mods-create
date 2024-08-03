@@ -1,0 +1,80 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-08-03 13:59:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-08-03 13:59:07 +0200"
+    },
+    "done": true
+  },
+  "rechiseled:recipes/rechiseled/chisel": {
+    "criteria": {
+      "recipe_condition": "2024-08-03 13:54:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2024-08-03 13:59:07 +0200"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2024-08-03 13:54:21 +0200"
+    },
+    "done": true
+  },
+  "nocubessrpsurvival:advparasitesurvivalroot": {
+    "criteria": {
+      "advparasitesurvivalroot": "2024-08-03 13:54:21 +0200"
+    },
+    "done": true
+  },
+  "movingelevators:recipes/elevator_block": {
+    "criteria": {
+      "recipe_condition": "2024-08-03 13:54:21 +0200"
+    },
+    "done": true
+  },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2024-08-03 13:54:21 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "wasteland": "2024-08-03 13:58:29 +0200"
+    },
+    "done": false
+  },
+  "tinkersurvival:root": {
+    "criteria": {
+      "always_true": "2024-08-03 13:54:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-08-03 13:59:07 +0200"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2024-08-03 13:54:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "jungle": "2024-08-03 13:54:21 +0200"
+    },
+    "done": false
+  }
+}

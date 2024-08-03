@@ -1,0 +1,13 @@
+filename = 'gunsrpg-1.0.4.jar'
+name = 'GUNS RPG'
+side = 'both'
+
+[download]
+hash = '43c569f11a73a82109478292458abf79e04e430e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3301686
+project-id = 411604

@@ -1,0 +1,13 @@
+filename = 'FoodExpansion1.3.3-1.12.2.jar'
+name = 'Food Expansion'
+side = 'both'
+
+[download]
+hash = 'd2fe55e9c219c8c1b1f1918a90443faf05f4c1fe'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2573308
+project-id = 235328

@@ -1,0 +1,13 @@
+filename = 'ReachFix-1.12.2-1.0.10.jar'
+name = 'Reach Fix'
+side = 'both'
+
+[download]
+hash = '65766853409c7d8c95a5d3d6a664d8afb34b9345'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5543551
+project-id = 556777

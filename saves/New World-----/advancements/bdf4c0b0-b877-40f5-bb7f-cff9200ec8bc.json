@@ -1,0 +1,52 @@
+{
+  "rechiseled:recipes/rechiseled/chisel": {
+    "criteria": {
+      "recipe_condition": "2024-08-03 14:30:33 +0200"
+    },
+    "done": true
+  },
+  "movingelevators:recipes/elevator_block": {
+    "criteria": {
+      "recipe_condition": "2024-08-03 14:30:33 +0200"
+    },
+    "done": true
+  },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2024-08-03 14:30:34 +0200"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "wasteland": "2024-08-03 14:31:14 +0200",
+      "dead_forest": "2024-08-03 14:30:33 +0200",
+      "gravel_beach": "2024-08-03 14:31:10 +0200"
+    },
+    "done": false
+  },
+  "tinkersurvival:root": {
+    "criteria": {
+      "always_true": "2024-08-03 14:30:33 +0200"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2024-08-03 14:30:34 +0200"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2024-08-03 14:30:34 +0200"
+    },
+    "done": true
+  },
+  "nocubessrpsurvival:advparasitesurvivalroot": {
+    "criteria": {
+      "advparasitesurvivalroot": "2024-08-03 14:30:34 +0200"
+    },
+    "done": true
+  }
+}

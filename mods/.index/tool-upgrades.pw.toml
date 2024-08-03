@@ -1,0 +1,13 @@
+filename = 'ToolUpgrades-1.12.x-(v.2.0.3).jar'
+name = 'Tool Upgrades'
+side = 'both'
+
+[download]
+hash = '5ed3865d16a7910bb2c7fae3b16a841391ad15d4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2816837
+project-id = 258131

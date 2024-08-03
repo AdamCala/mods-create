@@ -1,0 +1,13 @@
+filename = 'NTM-Extended-1.12.2-2.0.2.jar'
+name = "Hbm's Nuclear Tech - Extended Edition"
+side = 'both'
+
+[download]
+hash = '69d61b08400f1656bb41d0c63a28d0e780371b44dd826909685db9a7b015bf8e5d820e7db3c377bd5c8c08825bf7fd997bcfbfa0c66e3f4d104adc8b1c9dac36'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9Y3a7djB/versions/9pJC8bY8/NTM-Extended-1.12.2-2.0.2.jar'
+
+[update.modrinth]
+mod-id = '9Y3a7djB'
+version = '9pJC8bY8'

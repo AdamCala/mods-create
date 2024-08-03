@@ -1,0 +1,13 @@
+filename = 'Horror_elements_mod_1.5.2_1.12.2.jar'
+name = 'Horror Elements mod'
+side = 'both'
+
+[download]
+hash = '0b6dc0bb5d5c33aceef33ffd21e788ead94cc6b1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4923463
+project-id = 496520

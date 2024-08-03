@@ -1,0 +1,50 @@
+{
+  "rechiseled:recipes/rechiseled/chisel": {
+    "criteria": {
+      "recipe_condition": "2024-08-03 14:24:54 +0200"
+    },
+    "done": true
+  },
+  "movingelevators:recipes/elevator_block": {
+    "criteria": {
+      "recipe_condition": "2024-08-03 14:24:54 +0200"
+    },
+    "done": true
+  },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2024-08-03 14:24:55 +0200"
+    },
+    "done": true
+  },
+  "tinkersurvival:root": {
+    "criteria": {
+      "always_true": "2024-08-03 14:24:54 +0200"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2024-08-03 14:24:55 +0200"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2024-08-03 14:24:55 +0200"
+    },
+    "done": true
+  },
+  "nocubessrpsurvival:advparasitesurvivalroot": {
+    "criteria": {
+      "advparasitesurvivalroot": "2024-08-03 14:24:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "jungle": "2024-08-03 14:24:54 +0200"
+    },
+    "done": false
+  }
+}

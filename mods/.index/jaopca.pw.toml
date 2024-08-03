@@ -1,0 +1,13 @@
+filename = 'JAOPCA-1.12.2-2.3.11.26.jar'
+name = 'JAOPCA'
+side = 'both'
+
+[download]
+hash = '511768d5ac1e9c8322d54eaf4bd6467a92c4674558b59f5f50c3770b0045987a832ed0dc420338f37a23684d4b68e5882fe4ddf1269f09271d38824a7b570aa0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/P48mHi2j/versions/PNihpf4y/JAOPCA-1.12.2-2.3.11.26.jar'
+
+[update.modrinth]
+mod-id = 'P48mHi2j'
+version = 'PNihpf4y'

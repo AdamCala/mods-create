@@ -1,0 +1,13 @@
+filename = 'TinkerSurvival-1.12.2-1.2.3.2.jar'
+name = "Tinkers' Survival"
+side = 'both'
+
+[download]
+hash = '8996f7f045d4374e0c1b8a9ca27701267c80e186080194726e32cd3d66853050bc656c3537e471d471a7cbf0b8cdea0b18e803cecfda9ac00159861ff7fc01db'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KRi6s8j8/versions/d167xwRP/TinkerSurvival-1.12.2-1.2.3.2.jar'
+
+[update.modrinth]
+mod-id = 'KRi6s8j8'
+version = 'd167xwRP'

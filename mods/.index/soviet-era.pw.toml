@@ -1,0 +1,13 @@
+filename = 'Soviet+Era+0.6.jar'
+name = 'Soviet Era 2'
+side = 'both'
+
+[download]
+hash = '98b53b134f4bf7b1a606ee66678a053ae675b25b5e85a7e70ee7cb11017dd2f46886c5533895c6914f0e632d96b5286c5ed7b11a21d8b10529cd280a45204af1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hEbvZgiQ/versions/qkhKw8D0/Soviet%2BEra%2B0.6.jar'
+
+[update.modrinth]
+mod-id = 'hEbvZgiQ'
+version = 'qkhKw8D0'
